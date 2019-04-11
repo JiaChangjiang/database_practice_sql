@@ -1,0 +1,424 @@
+    bc    |                       name                        |         avg         |         avg         
+----------+---------------------------------------------------+---------------------+---------------------
+ 06 02324 | Real-Time Systems Programming                     | 60.4015748031496063 | 60.8429752066115702
+ 06 02360 | Introduction to Neural Networks                   | 51.5925925925925926 | 59.3863636363636364
+ 06 02363 | Commercial Programming                            | 58.9785714285714286 | 67.4341085271317829
+ 06 02381 | Databases 1                                       | 61.0277777777777778 | 59.2962962962962963
+ 06 02386 | Software Project                                  | 63.1304347826086957 | 60.1605839416058394
+ 06 02411 | Evolutionary Computation                          | 54.9655172413793103 | 53.7567567567567568
+ 06 02440 | Software Workshop Team Prolog or Pop-11           | 62.1153846153846154 | 61.5384615384615385
+ 06 02483 | Philosophy of Cognitive Science                   | 63.9279279279279279 | 61.6956521739130435
+ 06 02495 | Natural Language Processing 1                     | 49.0000000000000000 | 48.7600000000000000
+ 06 02504 | Graphics 1                                        | 57.9183673469387755 | 55.9268292682926829
+ 06 02512 | Parallel Computer Architecture                    | 62.0000000000000000 | 59.1325301204819277
+ 06 02525 | Databases 2                                       | 62.1153846153846154 | 51.7636363636363636
+ 06 02552 | Principles of Programming Languages               | 54.9756097560975610 | 66.3571428571428571
+ 06 02578 | Compilers & Languages                             | 57.8571428571428571 | 48.2400000000000000
+ 06 02596 | Project - E&SE/BEng                               | 56.3333333333333333 | 30.0000000000000000
+ 06 02630 | Software Workshop Prolog                          | 46.5915492957746479 | 62.2500000000000000
+ 06 02640 | Machine Learning                                  | 54.4468085106382979 | 40.5714285714285714
+ 06 02645 | Virtual Reality                                   | 59.6929824561403509 | 60.1000000000000000
+ 06 02648 | Natural Language Processing 2                     | 54.0000000000000000 | 64.0833333333333333
+ 06 05933 | Computer Networks                                 | 56.7909604519774011 | 65.5345911949685535
+ 06 05934 | Models of Computation                             | 55.7282608695652174 | 55.7171717171717172
+ 06 06147 | Communication Skills & Professional Issues        | 65.1032258064516129 | 64.6543209876543210
+ 06 06798 | Distributed Systems                               | 57.4047619047619048 | 47.1209677419354839
+ 06 06991 | Research Skills                                   | 63.8750000000000000 | 61.4285714285714286
+ 06 06994 | Software Workshop A                               | 62.6666666666666667 | 68.4255319148936170
+ 06 06995 | Fundamentals of Computer Science                  | 70.5590551181102362 | 60.5306122448979592
+ 06 07953 | First semester mini-project                       | 66.6250000000000000 | 56.7142857142857143
+ 06 07954 | Second semester mini-project                      | 69.7368421052631579 | 66.0000000000000000
+ 06 08144 | Formal Methods                                    | 58.3500000000000000 | 51.9200000000000000
+ 06 08163 | Software Workshop Java                            | 56.8322147651006711 | 52.8680555555555556
+ 06 08165 | Software Workshop Team Java                       | 72.9692307692307692 | 51.9770992366412214
+ 06 08166 | Software Workshop Java (A)                        | 54.4516129032258065 | 46.3529411764705882
+ 06 08167 | Human-Computer Interaction 1                      | 60.5906432748538012 | 62.9745222929936306
+ 06 08744 | Software Workshop 1 A                             | 52.6589595375722543 | 53.2649006622516556
+ 06 08745 | Software Workshop 1 B                             | 52.6589595375722543 | 53.2649006622516556
+ 06 08747 | Software Workshop 1(A) A                          | 61.4594594594594595 | 59.9000000000000000
+ 06 08750 | Software Workshop 1(A) B                          | 61.4594594594594595 | 59.9000000000000000
+ 06 08752 | Introduction to Software & Hardware Engineering A | 48.0625000000000000 | 46.8623188405797101
+ 06 08755 | Introduction to Software & Hardware Engineering B | 48.0625000000000000 | 46.8623188405797101
+ 06 08762 | Mathematics & Logic A: i                          | 43.1589743589743590 | 43.8881118881118881
+ 06 08764 | Mathematics & Logic B: i                          | 43.3789473684210526 | 43.8881118881118881
+ 06 08775 | Introduction to AI                                | 57.3421052631578947 | 56.3716814159292035
+ 06 11223 | Natural Language Processing & Applications        | 53.6122448979591837 | 57.1355932203389831
+ 06 11224 | Introduction to Software Engineering              | 63.5000000000000000 | 51.7037037037037037
+ 06 11337 | Introduction to Computer Science A                | 56.5479452054794521 | 51.6145833333333333
+ 06 11338 | Introduction to Computer Science B                | 56.3165137614678899 | 51.6145833333333333
+ 06 11349 | AI Programming A                                  | 55.9677419354838710 | 63.2857142857142857
+ 06 11351 | AI Programming B                                  | 55.9677419354838710 | 63.2857142857142857
+ 06 11352 | AI Techniques A                                   | 61.8888888888888889 | 56.2285714285714286
+ 06 11353 | AI Techniques B                                   | 61.8888888888888889 | 56.2285714285714286
+ 06 11579 | Software Engineering A                            | 70.1709844559585492 | 64.1714285714285714
+ 06 11580 | Software Engineering B                            | 70.0833333333333333 | 64.1714285714285714
+ 06 11582 | Software Workshop Haskell                         | 55.7321428571428571 | 48.4594594594594595
+ 06 12411 | Introduction to Molecular and Quantum Computation | 50.3076923076923077 | 54.0400000000000000
+ 06 12412 | Introduction to Neural Computation                | 56.8461538461538462 | 62.7692307692307692
+ 06 12414 | Introduction to Evolutionary Computation          | 63.1538461538461538 | 52.9583333333333333
+ 06 12415 | NC mini-project 1: Research Skills                | 64.5833333333333333 | 59.1000000000000000
+ 06 12416 | Nature Inspired Optimisation                      | 50.9166666666666667 | 51.1666666666666667
+ 06 12417 | Nature Inspired Learning                          | 68.0769230769230769 | 64.9166666666666667
+ 06 12418 | Nature Inspired Design                            | 69.7500000000000000 | 60.1428571428571429
+ 06 13520 | Intelligent Robotics                              | 71.1489361702127660 | 68.6923076923076923
+ 06 13584 | Fundamentals of Databases                         | 62.7460317460317460 | 63.3469387755102041
+ 06 14409 | Behaviour of Complex Systems                      | 62.4444444444444444 | 61.4285714285714286
+ 06 14410 | Nature Inspired Design (A)                        | 69.5000000000000000 | 53.7272727272727273
+(64 rows)
+
+                       name                        |         avg         |         avg         
+---------------------------------------------------+---------------------+---------------------
+ Introduction to AI                                | 57.3421052631578947 | 56.3716814159292035
+ NC mini-project 1: Research Skills                | 64.5833333333333333 | 59.1000000000000000
+ Nature Inspired Design                            | 69.7500000000000000 | 60.1428571428571429
+ Commercial Programming                            | 58.9785714285714286 | 67.4341085271317829
+ Second semester mini-project                      | 69.7368421052631579 | 66.0000000000000000
+ Introduction to Software & Hardware Engineering A | 48.0625000000000000 | 46.8623188405797101
+ Mathematics & Logic A: i                          | 43.1589743589743590 | 43.8881118881118881
+ Mathematics & Logic B: i                          | 43.3789473684210526 | 43.8881118881118881
+ Principles of Programming Languages               | 54.9756097560975610 | 66.3571428571428571
+ Intelligent Robotics                              | 71.1489361702127660 | 68.6923076923076923
+ Philosophy of Cognitive Science                   | 63.9279279279279279 | 61.6956521739130435
+ Fundamentals of Computer Science                  | 70.5590551181102362 | 60.5306122448979592
+ Graphics 1                                        | 57.9183673469387755 | 55.9268292682926829
+ Human-Computer Interaction 1                      | 60.5906432748538012 | 62.9745222929936306
+ AI Programming B                                  | 55.9677419354838710 | 63.2857142857142857
+ Software Workshop Haskell                         | 55.7321428571428571 | 48.4594594594594595
+ Nature Inspired Design (A)                        | 69.5000000000000000 | 53.7272727272727273
+ Research Skills                                   | 63.8750000000000000 | 61.4285714285714286
+ Databases 2                                       | 62.1153846153846154 | 51.7636363636363636
+ Software Workshop Team Java                       | 72.9692307692307692 | 51.9770992366412214
+ Natural Language Processing 2                     | 54.0000000000000000 | 64.0833333333333333
+ Introduction to Neural Networks                   | 51.5925925925925926 | 59.3863636363636364
+ Models of Computation                             | 55.7282608695652174 | 55.7171717171717172
+ Nature Inspired Learning                          | 68.0769230769230769 | 64.9166666666666667
+ Virtual Reality                                   | 59.6929824561403509 | 60.1000000000000000
+ Software Workshop 1 A                             | 52.6589595375722543 | 53.2649006622516556
+ Software Workshop Java (A)                        | 54.4516129032258065 | 46.3529411764705882
+ Introduction to Computer Science A                | 56.5479452054794521 | 51.6145833333333333
+ Introduction to Neural Computation                | 56.8461538461538462 | 62.7692307692307692
+ Introduction to Computer Science B                | 56.3165137614678899 | 51.6145833333333333
+ Fundamentals of Databases                         | 62.7460317460317460 | 63.3469387755102041
+ Introduction to Software & Hardware Engineering B | 48.0625000000000000 | 46.8623188405797101
+ Introduction to Software Engineering              | 63.5000000000000000 | 51.7037037037037037
+ Databases 1                                       | 61.0277777777777778 | 59.2962962962962963
+ AI Programming A                                  | 55.9677419354838710 | 63.2857142857142857
+ Software Workshop Team Prolog or Pop-11           | 62.1153846153846154 | 61.5384615384615385
+ Software Workshop A                               | 62.6666666666666667 | 68.4255319148936170
+ Software Workshop Java                            | 56.8322147651006711 | 52.8680555555555556
+ Behaviour of Complex Systems                      | 62.4444444444444444 | 61.4285714285714286
+ Software Workshop 1 B                             | 52.6589595375722543 | 53.2649006622516556
+ Natural Language Processing 1                     | 49.0000000000000000 | 48.7600000000000000
+ AI Techniques A                                   | 61.8888888888888889 | 56.2285714285714286
+ Parallel Computer Architecture                    | 62.0000000000000000 | 59.1325301204819277
+ Compilers & Languages                             | 57.8571428571428571 | 48.2400000000000000
+ Software Workshop Prolog                          | 46.5915492957746479 | 62.2500000000000000
+ Communication Skills & Professional Issues        | 65.1032258064516129 | 64.6543209876543210
+ First semester mini-project                       | 66.6250000000000000 | 56.7142857142857143
+ Software Workshop 1(A) A                          | 61.4594594594594595 | 59.9000000000000000
+ Software Engineering B                            | 70.0833333333333333 | 64.1714285714285714
+ Project - E&SE/BEng                               | 56.3333333333333333 | 30.0000000000000000
+ Introduction to Evolutionary Computation          | 63.1538461538461538 | 52.9583333333333333
+ AI Techniques B                                   | 61.8888888888888889 | 56.2285714285714286
+ Evolutionary Computation                          | 54.9655172413793103 | 53.7567567567567568
+ Distributed Systems                               | 57.4047619047619048 | 47.1209677419354839
+ Software Workshop 1(A) B                          | 61.4594594594594595 | 59.9000000000000000
+ Introduction to Molecular and Quantum Computation | 50.3076923076923077 | 54.0400000000000000
+ Computer Networks                                 | 56.7909604519774011 | 65.5345911949685535
+ Real-Time Systems Programming                     | 60.4015748031496063 | 60.8429752066115702
+ Software Engineering A                            | 70.1709844559585492 | 64.1714285714285714
+ Nature Inspired Optimisation                      | 50.9166666666666667 | 51.1666666666666667
+ Machine Learning                                  | 54.4468085106382979 | 40.5714285714285714
+ Natural Language Processing & Applications        | 53.6122448979591837 | 57.1355932203389831
+ Software Project                                  | 63.1304347826086957 | 60.1605839416058394
+ Formal Methods                                    | 58.3500000000000000 | 51.9200000000000000
+(64 rows)
+
+             name              |         avg         |         avg         
+-------------------------------+---------------------+---------------------
+ Introduction to AI            | 57.3421052631578947 | 56.3716814159292035
+ Graphics 1                    | 57.9183673469387755 | 55.9268292682926829
+ Human-Computer Interaction 1  | 60.5906432748538012 | 62.9745222929936306
+ Software Workshop Team Java   | 72.9692307692307692 | 51.9770992366412214
+ Models of Computation         | 55.7282608695652174 | 55.7171717171717172
+ Software Workshop Java        | 56.8322147651006711 | 52.8680555555555556
+ Computer Networks             | 56.7909604519774011 | 65.5345911949685535
+ Real-Time Systems Programming | 60.4015748031496063 | 60.8429752066115702
+(8 rows)
+
+                       name                        | count |         avg         | max | min |       stddev        
+---------------------------------------------------+-------+---------------------+-----+-----+---------------------
+ AI Programming A                                  |    31 | 55.9677419354838710 |  90 |  16 | 18.7483045828464926
+ AI Programming B                                  |    31 | 55.9677419354838710 |  90 |  16 | 18.7483045828464926
+ AI Techniques A                                   |    27 | 61.8888888888888889 |  84 |  34 | 14.8280745503856593
+ AI Techniques B                                   |    27 | 61.8888888888888889 |  84 |  34 | 14.8280745503856593
+ Algorithms & Methods for Bioinformatics           |     2 | 53.5000000000000000 |  79 |  28 | 36.0624458405139237
+ Automatic Verification                            |    25 | 61.6800000000000000 |  88 |  20 | 17.6368931504389400
+ Behaviour of Complex Systems                      |     9 | 62.4444444444444444 |  86 |  40 | 17.4005108481842503
+ Commercial Programming                            |   140 | 58.9785714285714286 |  77 |  24 | 10.0441241330032257
+ Communication Skills & Professional Issues        |   155 | 65.1032258064516129 |  93 |  23 | 12.6840600415242453
+ Compilers & Languages                             |    42 | 57.8571428571428571 |  96 |   6 | 20.0080123323454896
+ Computer Networks                                 |   177 | 56.7909604519774011 |  94 |  10 | 17.8180937049067109
+ Databases 1                                       |   180 | 61.0277777777777778 |  94 |   9 | 16.7470269371986622
+ Databases 2                                       |    26 | 62.1153846153846154 |  90 |  21 | 16.1723886252511829
+ Distributed Systems                               |   126 | 57.4047619047619048 |  97 |   7 | 17.9720576769288481
+ Evolutionary Computation                          |    29 | 54.9655172413793103 |  78 |  21 | 16.3499295730695726
+ First semester mini-project                       |     8 | 66.6250000000000000 |  75 |  58 |  5.7055737159878522
+ Formal Methods                                    |    40 | 58.3500000000000000 |  90 |  19 | 20.8604029265115168
+ Fundamentals of Computer Science                  |   127 | 70.5590551181102362 |  93 |   6 | 13.5656273986557697
+ Fundamentals of Databases                         |   126 | 62.7460317460317460 |  92 |  22 | 13.5805369601862255
+ Graphics 1                                        |   147 | 57.9183673469387755 |  99 |   9 | 18.8259912886710498
+ Human-Computer Interaction 1                      |   171 | 60.5906432748538012 |  89 |   6 | 12.0775301889962697
+ Human-Computer Interaction 2                      |    19 | 60.6315789473684211 |  72 |  53 |  5.4284285255780923
+ Image Understanding                               |    57 | 44.5087719298245614 |  88 |   8 | 20.0714107332308642
+ Intelligent Robotics                              |    47 | 71.1489361702127660 |  85 |  64 |  6.0216230781938841
+ Introduction to AI                                |   114 | 57.3421052631578947 |  86 |  15 | 12.4643413134510298
+ Introduction to Computer Science A                |   219 | 56.5479452054794521 |  98 |   3 | 19.3838870207624001
+ Introduction to Computer Science B                |   218 | 56.3165137614678899 |  98 |   3 | 19.3994109548155860
+ Introduction to Evolutionary Computation          |    13 | 63.1538461538461538 |  82 |  25 | 15.6463315926670910
+ Introduction to Molecular and Quantum Computation |    13 | 50.3076923076923077 |  90 |   9 | 23.0412116846626774
+ Introduction to Neural Computation                |    13 | 56.8461538461538462 |  70 |  37 | 10.1476282437995813
+ Introduction to Neural Networks                   |    54 | 51.5925925925925926 |  82 |  14 | 16.6829689662541990
+ Introduction to Software Engineering              |    20 | 63.5000000000000000 |  86 |  40 | 12.8902247744886941
+ Introduction to Software & Hardware Engineering A |   144 | 48.0625000000000000 |  93 |  10 | 16.6855822147791369
+ Introduction to Software & Hardware Engineering B |   144 | 48.0625000000000000 |  93 |  10 | 16.6855822147791369
+ Logic & Theory Seminar                            |     1 | 65.0000000000000000 |  65 |  65 |                    
+ Machine Learning                                  |    47 | 54.4468085106382979 |  91 |   2 | 22.3468785006632247
+ Mathematics & Logic A: i                          |   195 | 43.1589743589743590 |  84 |   2 | 18.4620077700503908
+ Mathematics & Logic B: i                          |   190 | 43.3789473684210526 |  84 |   2 | 18.5142181584418866
+ Mechanised Deduction                              |     2 | 59.5000000000000000 |  74 |  45 | 20.5060966544098782
+ Models of Computation                             |    92 | 55.7282608695652174 |  89 |   9 | 16.9978041638541564
+ Natural Language Processing 1                     |    42 | 49.0000000000000000 |  72 |   3 | 16.7841388540839572
+ Natural Language Processing 2                     |    11 | 54.0000000000000000 |  77 |  41 | 10.5546198415670093
+ Natural Language Processing & Applications        |    49 | 53.6122448979591837 |  91 |  25 | 12.6882759640061230
+ Nature Inspired Design                            |    12 | 69.7500000000000000 |  92 |  27 | 21.3078090678682231
+ Nature Inspired Design (A)                        |    10 | 69.5000000000000000 |  96 |  43 | 17.8465682975747469
+ Nature Inspired Learning                          |    13 | 68.0769230769230769 |  93 |  40 | 17.5947981823300001
+ Nature Inspired Optimisation                      |    12 | 50.9166666666666667 |  76 |  26 | 16.1158213247012940
+ NC mini-project 1: Research Skills                |    12 | 64.5833333333333333 |  77 |  53 |  7.9253142562680794
+ Operating Systems                                 |    35 | 52.8571428571428571 |  90 |  13 | 19.5465400235119950
+ Parallel Computer Architecture                    |    60 | 62.0000000000000000 |  95 |   3 | 18.1248027458582618
+ Philosophy of Cognitive Science                   |   111 | 63.9279279279279279 |  88 |  44 |  9.9897326488128998
+ Principles of Programming Languages               |    41 | 54.9756097560975610 |  99 |  18 | 20.8608338817963468
+ Project - E&SE/BEng                               |     6 | 56.3333333333333333 |  65 |  45 |  6.7724933862401569
+ Real-Time Systems Programming                     |   127 | 60.4015748031496063 |  98 |  18 | 18.1699472103607551
+ Reasoning about Mental States                     |    17 | 63.7058823529411765 |  85 |  15 | 19.2508594154986784
+ Research Skills                                   |     8 | 63.8750000000000000 |  77 |  54 |  7.6985620178613319
+ Second semester mini-project                      |    19 | 69.7368421052631579 |  80 |  48 |  9.0666795665542906
+ Software Engineering A                            |   193 | 70.1709844559585492 |  90 |  21 | 12.4560388452067213
+ Software Engineering B                            |   192 | 70.0833333333333333 |  90 |  21 | 12.5252972640663751
+ Software Project                                  |   115 | 63.1304347826086957 |  90 |  30 | 12.3462628333296368
+ Software Workshop 1 A                             |   173 | 52.6589595375722543 |  91 |   2 | 20.5820646992287194
+ Software Workshop 1(A) A                          |    37 | 61.4594594594594595 |  86 |  16 | 17.7225446420255516
+ Software Workshop 1(A) B                          |    37 | 61.4594594594594595 |  86 |  16 | 17.7225446420255516
+ Software Workshop 1 B                             |   173 | 52.6589595375722543 |  91 |   2 | 20.5820646992287194
+ Software Workshop A                               |   126 | 62.6666666666666667 |  82 |  24 |  8.7443696170736058
+ Software Workshop Haskell                         |    56 | 55.7321428571428571 |  79 |  26 | 12.3074125061851485
+ Software Workshop Java                            |   149 | 56.8322147651006711 |  93 |   4 | 20.4848007875330741
+ Software Workshop Java (A)                        |    31 | 54.4516129032258065 |  89 |   2 | 22.2753057736998968
+ Software Workshop Prolog                          |    71 | 46.5915492957746479 |  91 |   9 | 18.9748536337578955
+ Software Workshop Team Java                       |   130 | 72.9692307692307692 |  91 |  50 |  9.9821068301255003
+ Software Workshop Team Prolog or Pop-11           |    26 | 62.1153846153846154 |  76 |   3 | 15.9582628705681448
+ Virtual Reality                                   |   114 | 59.6929824561403509 |  84 |  40 | 11.9794271975746142
+(72 rows)
+
+                 name                 | numbers | numbers 
+--------------------------------------+---------+---------
+ Parallel Computer Architecture       |      41 |      72
+ Graphics 1                           |     117 |     127
+ Introduction to Software Engineering |      31 |      39
+ Philosophy of Cognitive Science      |      61 |      86
+ Individual Study 1                   |       2 |       3
+ Planning                             |       8 |       9
+ Distributed Systems                  |      80 |     123
+ Software Workshop Java (A)           |      10 |      21
+ Databases 2                          |      38 |      60
+ Software Workshop 1(A) A             |      44 |      55
+ Computer Networks                    |     136 |     139
+(11 rows)
+
+    bc    |  all average mark   | average passing test 
+----------+---------------------+----------------------
+ 06 02411 | 53.7567567567567568 |  59.7500000000000000
+ 06 12416 | 51.1666666666666667 |  59.1250000000000000
+ 06 08764 | 43.8881118881118881 |  55.2558139534883721
+ 06 11349 | 63.2857142857142857 |  68.5666666666666667
+ 06 06147 | 64.6543209876543210 |  66.0903225806451613
+ 06 14410 | 53.7272727272727273 |  54.6666666666666667
+ 06 11353 | 56.2285714285714286 |  63.3333333333333333
+ 06 02512 | 59.1325301204819277 |  66.4705882352941176
+ 06 08762 | 43.8881118881118881 |  55.2558139534883721
+ 06 13584 | 63.3469387755102041 |  66.2888888888888889
+ 06 11580 | 64.1714285714285714 |  65.8358208955223881
+ 06 08144 | 51.9200000000000000 |  60.7777777777777778
+ 06 08165 | 51.9770992366412214 |  57.0776699029126214
+ 06 02640 | 40.5714285714285714 |  59.9000000000000000
+ 06 08166 | 46.3529411764705882 |  62.8888888888888889
+ 06 11582 | 48.4594594594594595 |  58.0612244897959184
+ 06 11337 | 51.6145833333333333 |  60.5034965034965035
+ 06 17442 | 67.0697674418604651 |  67.0697674418604651
+ 06 02552 | 66.3571428571428571 |  71.0800000000000000
+ 06 12415 | 59.1000000000000000 |  63.4444444444444444
+ 06 02578 | 48.2400000000000000 |  61.1875000000000000
+ 06 06798 | 47.1209677419354839 |  53.2826086956521739
+ 06 02363 | 67.4341085271317829 |  68.1587301587301587
+ 06 02381 | 59.2962962962962963 |  62.1712328767123288
+ 06 15267 | 61.4000000000000000 |  61.4000000000000000
+ 06 02645 | 60.1000000000000000 |  61.1886792452830189
+ 06 17421 | 57.7419354838709677 |  69.2272727272727273
+ 06 02324 | 60.8429752066115702 |  64.3027522935779817
+ 06 15269 | 52.5000000000000000 |  67.0000000000000000
+ 06 02386 | 60.1605839416058394 |  63.1967213114754098
+ 06 11351 | 63.2857142857142857 |  68.5666666666666667
+ 06 15506 | 72.0000000000000000 |  72.0000000000000000
+ 06 07954 | 66.0000000000000000 |  66.0000000000000000
+ 06 17417 | 65.1304347826086957 |  65.1304347826086957
+ 06 11223 | 57.1355932203389831 |  60.3269230769230769
+ 06 13520 | 68.6923076923076923 |  68.6923076923076923
+ 06 06994 | 68.4255319148936170 |  68.4255319148936170
+ 06 15256 | 70.4090909090909091 |  70.4090909090909091
+ 06 08747 | 59.9000000000000000 |  63.5277777777777778
+ 06 12417 | 64.9166666666666667 |  64.9166666666666667
+ 06 05933 | 65.5345911949685535 |  68.4081632653061224
+ 06 08163 | 52.8680555555555556 |  62.2761904761904762
+ 06 02525 | 51.7636363636363636 |  61.2926829268292683
+ 06 11224 | 51.7037037037037037 |  54.3913043478260870
+ 06 02360 | 59.3863636363636364 |  64.0263157894736842
+ 06 08752 | 46.8623188405797101 |  59.8690476190476190
+ 06 08750 | 59.9000000000000000 |  63.5277777777777778
+ 06 08755 | 46.8623188405797101 |  59.8690476190476190
+ 06 08744 | 53.2649006622516556 |  63.2072072072072072
+ 06 11579 | 64.1714285714285714 |  65.8358208955223881
+ 06 02630 | 62.2500000000000000 |  68.3684210526315789
+ 06 02495 | 48.7600000000000000 |  54.5789473684210526
+ 06 07953 | 56.7142857142857143 |  63.1875000000000000
+ 06 06995 | 60.5306122448979592 |  64.3488372093023256
+ 06 14409 | 61.4285714285714286 |  61.4285714285714286
+ 06 15258 | 55.0952380952380952 |  60.3867924528301887
+ 06 08775 | 56.3716814159292035 |  62.7888888888888889
+ 06 11338 | 51.6145833333333333 |  60.5034965034965035
+ 06 15255 | 73.4285714285714286 |  73.4285714285714286
+ 06 02504 | 55.9268292682926829 |  60.7961165048543689
+ 06 02648 | 64.0833333333333333 |  64.0833333333333333
+ 06 08167 | 62.9745222929936306 |  65.0135135135135135
+ 06 08745 | 53.2649006622516556 |  63.2072072072072072
+ 06 02483 | 61.6956521739130435 |  63.1467889908256881
+ 06 06991 | 61.4285714285714286 |  61.4285714285714286
+ 06 02562 | 59.0000000000000000 |  59.0000000000000000
+ 06 12414 | 52.9583333333333333 |  61.5882352941176471
+ 06 11352 | 56.2285714285714286 |  63.3333333333333333
+ 06 15257 | 66.1000000000000000 |  66.1000000000000000
+ 06 12412 | 62.7692307692307692 |  64.6666666666666667
+ 06 05934 | 55.7171717171717172 |  61.5542168674698795
+ 06 12411 | 54.0400000000000000 |  58.5500000000000000
+ 06 02440 | 61.5384615384615385 |  61.5384615384615385
+ 06 02316 | 53.0666666666666667 |  54.8571428571428571
+ 06 12418 | 60.1428571428571429 |  60.1428571428571429
+(75 rows)
+
+                       name                        | failure rate 
+---------------------------------------------------+--------------
+ Logic                                             | 6%
+ Real-Time Systems Programming                     | 7%
+ Introduction to Neural Networks                   | 4%
+ Commercial Programming                            | 1%
+ Databases 1                                       | 7%
+ Software Project                                  | 4%
+ Evolutionary Computation                          | 10%
+ Philosophy of Cognitive Science                   | 5%
+ Natural Language Processing 1                     | 20%
+ Graphics 1                                        | 13%
+ Parallel Computer Architecture                    | 15%
+ Databases 2                                       | 23%
+ Principles of Programming Languages               | 7%
+ Compilers & Languages                             | 36%
+ Project - E&SE/BEng                               | 100%
+ Software Workshop Prolog                          | 13%
+ Machine Learning                                  | 52%
+ Virtual Reality                                   | 0%
+ Computer Networks                                 | 7%
+ Models of Computation                             | 13%
+ Communication Skills & Professional Issues        | 1%
+ Distributed Systems                               | 24%
+ Fundamentals of Computer Science                  | 12%
+ First semester mini-project                       | 14%
+ Formal Methods                                    | 24%
+ Software Workshop Java                            | 24%
+ Software Workshop Team Java                       | 6%
+ Software Workshop Java (A)                        | 47%
+ Human-Computer Interaction 1                      | 5%
+ Software Workshop 1 A                             | 23%
+ Software Workshop 1 B                             | 23%
+ Software Workshop 1(A) A                          | 7%
+ Software Workshop 1(A) B                          | 7%
+ Introduction to Software & Hardware Engineering A | 35%
+ Introduction to Software & Hardware Engineering B | 35%
+ Mathematics & Logic A: i                          | 38%
+ Mathematics & Logic B: i                          | 38%
+ Introduction to AI                                | 16%
+ Natural Language Processing & Applications        | 8%
+ Introduction to Software Engineering              | 11%
+ Introduction to Computer Science A                | 20%
+ Introduction to Computer Science B                | 20%
+ AI Programming A                                  | 11%
+ AI Programming B                                  | 11%
+ AI Techniques A                                   | 14%
+ AI Techniques B                                   | 14%
+ Software Engineering A                            | 3%
+ Software Engineering B                            | 3%
+ Software Workshop Haskell                         | 27%
+ Introduction to Molecular and Quantum Computation | 16%
+ Introduction to Evolutionary Computation          | 12%
+ NC mini-project 1: Research Skills                | 10%
+ Nature Inspired Optimisation                      | 25%
+ Fundamentals of Databases                         | 6%
+ Nature Inspired Design (A)                        | 4%
+ Operating Systems                                 | 12%
+ Formal Methods (Extended)                         | 50%
+ Imaging and Visualisation Systems                 | 19%
+(58 rows)
+
+ firstname |      lastname      | office 
+-----------+--------------------+--------
+ Georgios  | Kalantzis          |     20
+ Ian       | Millington         |     20
+ Kevin     | Lucas              |     20
+ Iain      | Styles             |    106
+ Dimitar   | Guelev             |    106
+ Marcin    | Chady              |    117
+ Manuela   | Viezzer            |    117
+ Robert    | Goldsmith          |    117
+ Aidan     | Harding            |    118
+ Barry     | Wilkins            |    118
+ Nicholas  | Hawes              |    118
+ Daniel    | Winchester         |    118
+ Rachel    | Harris             |    118
+ Marcos    | Quintana-Hernandez |    118
+ Seungyeob | Choi               |    118
+ James     | Neil               |    125
+ Stevan    | Anastasoff         |    125
+ Rashid    | Mehmood            |    125
+ Timothy   | Williams           |    135
+ Georgios  | Theodoropoulos     |    135
+ Mark      | Roberts            |    145
+ Gavin     | Brown              |    145
+ John      | Woodward           |    145
+ James     | Farmer             |    235
+ Alastair  | Channon            |    235
+ Carlos    | Calvo              |    242
+ James     | Drever             |    242
+(27 rows)
+
+ sid | firstname | lastname | year | max 
+-----+-----------+----------+------+-----
+  63 | Alan      | Sexton   | 1999 | 231
+  63 | Alan      | Sexton   | 2000 | 254
+  22 | Martin    | Escardo  | 2001 | 239
+  55 | Uday      | Reddy    | 2001 | 239
+  55 | Uday      | Reddy    | 2002 | 266
+  22 | Martin    | Escardo  | 2002 | 266
+  22 | Martin    | Escardo  | 2003 | 219
+  79 | Paul      | Levy     | 2003 | 219
+  61 | Mark      | Ryan     | 2004 | 207
+(9 rows)
+

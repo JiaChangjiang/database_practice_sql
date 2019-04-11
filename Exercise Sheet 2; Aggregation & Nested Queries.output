@@ -1,0 +1,424 @@
+  cid  | year 
+-------+------
+  6147 | 2003
+  2489 | 2000
+ 18189 | 2004
+ 11580 | 2002
+  2489 | 2002
+ 15520 | 2004
+ 11580 | 2003
+  2489 | 1999
+ 18519 | 2004
+ 12411 | 2004
+  6147 | 2002
+  2489 | 2001
+  6995 | 2004
+ 17421 | 2004
+ 11579 | 2002
+ 18187 | 2004
+ 15519 | 2004
+  8776 | 2002
+  2523 | 1999
+  2523 | 2001
+  2523 | 2000
+ 12415 | 2004
+ 18190 | 2004
+  6995 | 1999
+ 17421 | 2003
+  8764 | 2002
+  6994 | 2003
+  8762 | 2002
+  6995 | 2003
+  6995 | 2001
+ 11349 | 2002
+  8165 | 2002
+  2440 | 1999
+ 18184 | 2004
+ 18191 | 2004
+  6995 | 2000
+  2504 | 2004
+  6995 | 2002
+  8762 | 2003
+ 18156 | 2004
+  2440 | 2000
+  6994 | 2002
+  8764 | 2003
+(43 rows)
+
+  cid  | round | count 
+-------+-------+-------
+ 15517 |     2 |     1
+ 15519 |     2 |     2
+ 15518 |     2 |     1
+  2456 |     2 |     1
+ 15520 |     2 |     2
+ 15506 |     2 |     2
+ 15255 |     3 |     1
+ 15269 |     3 |     1
+  2642 |     5 |     2
+  8776 |     6 |     2
+ 15267 |     6 |     1
+ 15500 |     9 |     1
+ 18151 |    10 |     1
+ 18150 |    10 |     1
+ 15257 |    12 |     1
+ 12416 |    12 |     1
+ 12412 |    12 |     2
+ 12418 |    12 |     2
+ 12414 |    13 |     2
+ 12417 |    15 |     2
+ 14409 |    16 |     1
+  2562 |    17 |     2
+ 12411 |    17 |     4
+  6991 |    18 |     1
+  2451 |    19 |     1
+ 18157 |    19 |     1
+  2648 |    20 |     1
+  2596 |    20 |     1
+  7953 |    20 |     1
+ 18519 |    21 |     2
+ 18156 |    21 |     2
+ 18159 |    21 |     1
+ 14410 |    21 |     2
+  2489 |    21 |     2
+  2316 |    23 |     2
+  8166 |    23 |     2
+ 12415 |    23 |     2
+ 15256 |    24 |     1
+  5931 |    24 |     1
+  6997 |    26 |     2
+  2578 |    26 |     2
+  2411 |    27 |     3
+  8144 |    29 |     1
+ 18185 |    29 |     1
+ 18184 |    29 |     3
+  7954 |    30 |     1
+  2552 |    30 |     2
+ 17417 |    31 |     1
+ 18158 |    31 |     1
+  8750 |    32 |     1
+  2525 |    33 |     1
+  2651 |    37 |     1
+ 17421 |    39 |     2
+ 11351 |    39 |     2
+ 11352 |    39 |     2
+  2440 |    40 |     3
+ 11349 |    40 |     3
+ 11223 |    40 |     1
+  2495 |    41 |     1
+ 11353 |    41 |     3
+  8747 |    42 |     3
+ 13520 |    48 |     1
+ 11582 |    49 |     3
+  2640 |    52 |     3
+ 17442 |    54 |     2
+ 11224 |    56 |     1
+  2512 |    69 |     1
+  2360 |    76 |     2
+  2500 |    78 |     1
+ 13584 |    82 |     1
+ 18189 |    82 |     2
+  2523 |    87 |     2
+ 15258 |    88 |     1
+  6995 |    89 |     5
+  6994 |    89 |     4
+  2483 |    94 |     1
+  2386 |   100 |     1
+  6798 |   102 |     2
+  5934 |   107 |     2
+  2645 |   108 |     1
+  2630 |   108 |     1
+  2324 |   119 |     1
+  2363 |   125 |     3
+  8775 |   130 |     2
+ 18186 |   140 |     1
+  8165 |   144 |     2
+  5933 |   150 |     1
+ 18191 |   154 |     2
+  8752 |   157 |     2
+  2504 |   158 |     3
+ 18188 |   169 |     1
+  8755 |   169 |     2
+  8764 |   171 |     2
+ 11580 |   172 |     3
+ 11579 |   174 |     2
+  8167 |   181 |     2
+  8762 |   187 |     4
+  8745 |   191 |     1
+  2381 |   200 |     1
+ 18190 |   201 |     2
+  8163 |   201 |     2
+ 18187 |   204 |     2
+  6147 |   207 |     2
+  8744 |   208 |     3
+ 11337 |   221 |     3
+ 11338 |   234 |     1
+(106 rows)
+
+  cid  | year | count 
+-------+------+-------
+  2489 | 2001 |     2
+  6147 | 2002 |     2
+ 12411 | 2004 |     2
+  8762 | 2002 |     3
+  8764 | 2003 |     2
+  6994 | 2002 |     2
+ 18190 | 2004 |     2
+  2504 | 2004 |     2
+  8762 | 2003 |     2
+ 18519 | 2004 |     2
+  2440 | 2000 |     2
+  6995 | 2004 |     3
+ 12415 | 2004 |     2
+ 18156 | 2004 |     2
+ 18191 | 2004 |     2
+ 11580 | 2003 |     2
+  2489 | 1999 |     2
+  6995 | 2000 |     2
+  2523 | 2000 |     2
+  6995 | 2003 |     4
+  8776 | 2002 |     2
+ 11580 | 2002 |     3
+ 15519 | 2004 |     2
+ 15520 | 2004 |     2
+  2489 | 2002 |     2
+  2440 | 1999 |     2
+ 18187 | 2004 |     2
+  6995 | 2002 |     4
+  2523 | 2001 |     2
+  6995 | 2001 |     2
+ 18184 | 2004 |     3
+  8165 | 2002 |     2
+ 11349 | 2002 |     2
+ 17421 | 2004 |     2
+ 18189 | 2004 |     2
+ 11579 | 2002 |     2
+  2523 | 1999 |     2
+  6994 | 2003 |     2
+  8764 | 2002 |     2
+  6995 | 1999 |     2
+ 17421 | 2003 |     2
+  2489 | 2000 |     2
+  6147 | 2003 |     2
+(43 rows)
+
+                       name                        
+---------------------------------------------------
+ Nature Inspired Design
+ Introduction to AI
+ NC mini-project 1: Research Skills
+ Commercial Programming
+ Second semester mini-project
+ Introduction to Software & Hardware Engineering A
+ Mathematics & Logic A: i
+ Mathematics & Logic B: i
+ Principles of Programming Languages
+ Reasoning about Mental States
+ Intelligent Robotics
+ Philosophy of Cognitive Science
+ Fundamentals of Computer Science
+ Graphics 1
+ AI Programming B
+ Human-Computer Interaction 1
+ Software Workshop Haskell
+ Algorithms & Methods for Bioinformatics
+ Nature Inspired Design (A)
+ Research Skills
+ Databases 2
+ Software Workshop Team Java
+ Logic & Theory Seminar
+ Natural Language Processing 2
+ Introduction to Neural Networks
+ Nature Inspired Learning
+ Models of Computation
+ Virtual Reality
+ Software Workshop 1 A
+ Mechanised Deduction
+ Software Workshop Java (A)
+ Introduction to Computer Science A
+ Introduction to Neural Computation
+ Introduction to Computer Science B
+ Fundamentals of Databases
+ Introduction to Software Engineering
+ Introduction to Software & Hardware Engineering B
+ Databases 1
+ AI Programming A
+ Software Workshop Team Prolog or Pop-11
+ Software Workshop A
+ Software Workshop Java
+ Behaviour of Complex Systems
+ Software Workshop 1 B
+ Natural Language Processing 1
+ AI Techniques A
+ Parallel Computer Architecture
+ Compilers & Languages
+ Software Workshop Prolog
+ Communication Skills & Professional Issues
+ First semester mini-project
+ Human-Computer Interaction 2
+ Software Workshop 1(A) A
+ Software Engineering B
+ Introduction to Evolutionary Computation
+ Project - E&SE/BEng
+ AI Techniques B
+ Operating Systems
+ Distributed Systems
+ Evolutionary Computation
+ Introduction to Molecular and Quantum Computation
+ Software Workshop 1(A) B
+ Automatic Verification
+ Computer Networks
+ Real-Time Systems Programming
+ Software Engineering A
+ Nature Inspired Optimisation
+ Machine Learning
+ Natural Language Processing & Applications
+ Formal Methods
+ Software Project
+ Image Understanding
+(72 rows)
+
+                    name                    
+--------------------------------------------
+ Human-Computer Interaction 2
+ Software Workshop 1(A) B
+ Image Understanding
+ Natural Language Processing & Applications
+ Project - E&SE/BEng
+ Mechanised Deduction
+ Automatic Verification
+ Second semester mini-project
+ Logic & Theory Seminar
+ Reasoning about Mental States
+ Operating Systems
+ Software Workshop 1 B
+ Software Project
+ Algorithms & Methods for Bioinformatics
+(14 rows)
+
+    bc    |         avg         
+----------+---------------------
+ 06 02411 | 64.8780487804878049
+ 06 02651 | 64.7142857142857143
+ 06 14410 | 57.5555555555555556
+ 06 18186 | 58.1510791366906475
+ 06 18150 | 78.5600000000000000
+ 06 13584 | 63.5000000000000000
+ 06 08144 | 72.6153846153846154
+ 06 18157 | 57.6470588235294118
+ 06 15517 | 63.5000000000000000
+ 06 17442 | 61.6153846153846154
+ 06 02552 | 64.4237288135593220
+ 06 12415 | 66.6363636363636364
+ 06 02578 | 67.3636363636363636
+ 06 02381 | 59.4504950495049505
+ 06 02363 | 57.0886075949367089
+ 06 17421 | 64.0384615384615385
+ 06 02645 | 63.5494505494505495
+ 06 02324 | 59.1751824817518248
+ 06 15269 | 76.5000000000000000
+ 06 15519 | 70.0000000000000000
+ 06 02386 | 62.5773195876288660
+ 06 18191 | 58.8344827586206897
+ 06 15506 | 68.7500000000000000
+ 06 07954 | 61.7500000000000000
+ 06 17417 | 63.2790697674418605
+ 06 13520 | 68.5853658536585366
+ 06 06994 | 60.6428571428571429
+ 06 15520 | 70.0000000000000000
+ 06 15256 | 69.6071428571428571
+ 06 12417 | 62.9230769230769231
+ 06 05933 | 74.5847457627118644
+ 06 15518 | 63.5000000000000000
+ 06 18156 | 71.6875000000000000
+ 06 02495 | 57.1041666666666667
+ 06 07953 | 65.4285714285714286
+ 06 06995 | 64.9600000000000000
+ 06 14409 | 72.6250000000000000
+ 06 15258 | 61.0952380952380952
+ 06 18158 | 67.7352941176470588
+ 06 02504 | 65.2340425531914894
+ 06 02648 | 59.2000000000000000
+ 06 15255 | 76.0000000000000000
+ 06 08167 | 57.1712707182320442
+ 06 02483 | 59.3647058823529412
+ 06 06991 | 61.5714285714285714
+ 06 02562 | 67.8125000000000000
+ 06 12414 | 58.2727272727272727
+ 06 05934 | 62.9552238805970149
+ 06 12412 | 66.0000000000000000
+ 06 02440 | 59.8260869565217391
+ 06 15500 | 74.0000000000000000
+ 06 12411 | 70.0454545454545455
+ 06 12418 | 73.8000000000000000
+(53 rows)
+
+ firstname |      lastname      
+-----------+--------------------
+ Kevin     | Lucas
+ Stefano   | Cattani
+ Seungyeob | Choi
+ David     | King
+ Ian       | Millington
+ Benjamin  | Stone
+ James     | Neil
+ Shelagh   | Davis
+ Rachel    | Harris
+ Georgios  | Kalantzis
+ Sammy     | Snow
+ James     | Beadle
+ Jun       | He
+ Ahmet     | Orun
+ Daniel    | Winchester
+ Timothy   | Kovacs
+ Stuart    | Reynolds
+ Marcos    | Quintana-Hernandez
+ James     | Drever
+ Richard   | Pannell
+ James     | Farmer
+ Aaron     | Sloman
+ Dimitar   | Guelev
+ Ron       | Chrisley
+ Stevan    | Anastasoff
+ Mark      | Roberts
+ Bohumir   | Zoubek
+ Gethin    | Norman
+ Marcin    | Chady
+ Robert    | Goldsmith
+ Rashid    | Mehmood
+ Aidan     | Harding
+ John      | Woodward
+ Barry     | Wilkins
+ Nicholas  | Hawes
+ Timothy   | Williams
+ Gavin     | Brown
+ Carlos    | Calvo
+(38 rows)
+
+ student 
+---------
+ rxddnd
+ rarfxa
+ rabnxf
+ rayrwy
+ rxeabb
+ benwbn
+ fefexw
+ rayxyr
+ raawaf
+ benxry
+ raafdd
+ rardwn
+ rarabf
+(13 rows)
+
+ number of students | number of courses 
+--------------------+-------------------
+                657 |                76
+(1 row)
+
+ percentage of first class marks 
+---------------------------------
+ 28%
+(1 row)
+
